@@ -36,4 +36,10 @@ function App() {
   )
 }
 
-export default App
+export default App;
+
+id ka use label aur input ko link karne ke liye hota hai. Jab aap label ke andar htmlFor ka use karte ho, 
+  toh label click karne par checkbox automatically select ho jata hai.
+
+value="PhP" ka matlab hai jab checkbox select hoga toh iska value "PhP" hoga.
+checked batata hai checkbox select hai ya nahi (true / false).
