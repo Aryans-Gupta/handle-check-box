@@ -43,3 +43,6 @@ id ka use label aur input ko link karne ke liye hota hai. Jab aap label ke andar
 
 value="PhP" ka matlab hai jab checkbox select hoga toh iska value "PhP" hoga.
 checked batata hai checkbox select hai ya nahi (true / false).
+
+  event.target.value // "PhP"
+event.target.checked // true or false
